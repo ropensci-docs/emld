@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "d12da6660f154cec35adc5a48aa32d8cc4fb590f",
+    "author": "Carl Boettiger <cboettig@gmail.com>",
+    "time": "2020-10-23 21:42:08",
+    "files": 1,
+    "merge": true,
+    "message": "Merge pull request #70 from amoeba/master\n\nWrap as_xml's output in `invisible`"
+  },
+  "repo": "https://github.com/ropensci/emld",
+  "pkg": "emld"
+}
