@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "5a6a5d4a8de602183941ff38615930830d485feb",
+    "author": "Carl Boettiger <cboettig@berkeley.edu>",
+    "time": "2026-01-15T20:47:03Z",
+    "files": 5,
+    "merge": false,
+    "message": "Skip roundtrip validation tests on ARM Macs (v0.5.3)\n\n- Add skip_on_os('mac', arch = 'aarch64') to roundtrip validation tests\n- Fixes CRAN test failures on M1mac\n- Update WORDLIST for spelling check\n- Bump version to 0.5.3\n"
+  },
+  "repo": "https://github.com/ropensci/emld",
+  "pkg": "emld",
+  "time": "2026-08-30T07:37:48Z"
+}
